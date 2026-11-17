@@ -52,7 +52,7 @@
 
 ## ✦ Contacto
 
-<img src="galaxia.png" alt="Galaxia en pixel art" align="left" width="120">
+<img src="galaxia.jpg" alt="Galaxia en pixel art" align="left" width="120">
 
 <br>
 
